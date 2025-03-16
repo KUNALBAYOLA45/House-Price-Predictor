@@ -1,0 +1,53 @@
+2025-03-16 09:32:46,890 - INFO - Model and data loaded successfully.
+2025-03-16 09:32:46,909 - WARNING -  * Debugger is active!
+2025-03-16 09:32:46,912 - INFO -  * Debugger PIN: 977-180-372
+2025-03-16 09:32:46,929 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-16 09:32:46,930 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-16 09:32:46,932 - INFO -  * Restarting with stat
+2025-03-16 09:32:48,753 - INFO - Model and data loaded successfully.
+2025-03-16 09:32:48,761 - WARNING -  * Debugger is active!
+2025-03-16 09:32:48,763 - INFO -  * Debugger PIN: 977-180-372
+2025-03-16 09:33:09,308 - INFO - Model and data loaded successfully.
+2025-03-16 09:33:09,349 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-16 09:33:09,349 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-16 09:33:09,353 - INFO -  * Restarting with stat
+2025-03-16 09:33:12,342 - INFO - Model and data loaded successfully.
+2025-03-16 09:33:12,358 - WARNING -  * Debugger is active!
+2025-03-16 09:33:12,360 - INFO -  * Debugger PIN: 977-180-372
+2025-03-16 09:35:00,515 - INFO - Model and data loaded successfully.
+2025-03-16 09:35:00,542 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-16 09:35:00,543 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-16 09:35:00,545 - INFO -  * Restarting with stat
+2025-03-16 09:35:02,468 - INFO - Model and data loaded successfully.
+2025-03-16 09:35:02,483 - WARNING -  * Debugger is active!
+2025-03-16 09:35:02,494 - INFO -  * Debugger PIN: 977-180-372
+2025-03-16 09:36:31,303 - INFO -  * Detected change in 'C:\\Users\\ASUS\\House Price Prediction\\main.py', reloading
+2025-03-16 09:36:31,326 - INFO -  * Detected change in 'C:\\Users\\ASUS\\House Price Prediction\\main.py', reloading
+2025-03-16 09:36:32,166 - INFO -  * Restarting with stat
+2025-03-16 09:59:10,095 - INFO - Model and data loaded successfully.
+2025-03-16 09:59:10,126 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-16 09:59:10,126 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-16 09:59:10,128 - INFO -  * Restarting with stat
+2025-03-16 09:59:11,688 - INFO - Model and data loaded successfully.
+2025-03-16 09:59:11,697 - WARNING -  * Debugger is active!
+2025-03-16 09:59:11,699 - INFO -  * Debugger PIN: 122-061-639
+2025-03-16 09:59:56,199 - INFO - Model and data loaded successfully.
+2025-03-16 09:59:56,216 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-16 09:59:56,216 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-16 09:59:56,217 - INFO -  * Restarting with stat
+2025-03-16 09:59:57,638 - INFO - Model and data loaded successfully.
+2025-03-16 09:59:57,646 - WARNING -  * Debugger is active!
+2025-03-16 09:59:57,647 - INFO -  * Debugger PIN: 122-061-639
+2025-03-16 10:00:08,886 - INFO - Model and data loaded successfully.
+2025-03-16 10:00:08,901 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2025-03-16 10:00:08,901 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-16 10:00:08,903 - INFO -  * Restarting with stat
+2025-03-16 10:00:10,258 - INFO - Model and data loaded successfully.
+2025-03-16 10:00:10,265 - WARNING -  * Debugger is active!
+2025-03-16 10:00:10,267 - INFO -  * Debugger PIN: 122-061-639
