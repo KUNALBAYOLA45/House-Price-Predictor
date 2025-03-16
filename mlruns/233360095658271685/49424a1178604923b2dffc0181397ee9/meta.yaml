@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ASUS/House%20Price%20Prediction/mlruns/233360095658271685/49424a1178604923b2dffc0181397ee9/artifacts
+end_time: 1742107080685
+entry_point_name: ''
+experiment_id: '233360095658271685'
+lifecycle_stage: active
+run_id: 49424a1178604923b2dffc0181397ee9
+run_name: languid-grouse-942
+run_uuid: 49424a1178604923b2dffc0181397ee9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742107075720
+status: 3
+tags: []
+user_id: ASUS
