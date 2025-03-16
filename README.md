@@ -15,6 +15,12 @@ This project follows a structured approach:
 - **Rows**: 13,320
 - **Columns**: `area_type`, `availability`, `location`, `size`, `society`, `total_sqft`, `bath`, `balcony`, `price`
 
+
+# Animation of UI
+
+![HomepageUI](./House Price Predictor.mp4)
+
+
 ## Steps in the Project
 
 ### 1. Data Preprocessing and Feature Engineering
