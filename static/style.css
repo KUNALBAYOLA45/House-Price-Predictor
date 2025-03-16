@@ -1,7 +1,6 @@
-/* General Styles */
-body {
-    background: linear-gradient(to right, #0099ff, #0066ff); /* Gradient Background */
-    color: white;
+ body {
+    background: white;
+    color: black;
     font-family: 'Poppins', sans-serif;
     display: flex;
     justify-content: center;
@@ -10,10 +9,8 @@ body {
     margin: 0;
 }
 
-/* Center the Container */
 .container {
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
+    background: linear-gradient(135deg, rgba(0, 102, 255, 0.3), rgba(255, 255, 255, 0.5));
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     padding: 30px;
@@ -22,30 +19,27 @@ body {
     text-align: center;
 }
 
-/* Card Header */
 .card-header {
-    color: white;
+    color: black;
     font-size: 28px;
     font-weight: bold;
 }
 
-/* Labels */
 label {
     font-weight: bold;
     font-size: 16px;
-    color: white;
+    color: black;
     display: block;
     margin-bottom: 5px;
 }
 
-/* Form Fields */
 .form-group {
     margin-bottom: 15px;
 }
 
 .form-control {
     width: 100%;
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(0, 0, 0, 0.1);
     border: none;
     border-radius: 30px;
     padding: 12px;
@@ -56,10 +50,9 @@ label {
 
 .form-control:focus {
     outline: none;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
-/* Button */
 button {
     background: #0066ff;
     border: none;
@@ -74,14 +67,13 @@ button {
 
 button:hover {
     background: #0044cc;
-    box-shadow: 0 4px 10px rgba(255, 255, 255, 0.3);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     transform: scale(1.05);
 }
 
-/* Prediction Text */
 #prediction {
     font-size: 22px;
     font-weight: bold;
-    color: white;
+    color: black;
     margin-top: 20px;
 }
