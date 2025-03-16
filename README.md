@@ -90,3 +90,4 @@ jupyter notebook House_Price_Predictor.ipynb
 The project successfully preprocesses the Bangalore housing dataset, engineers relevant features, and trains a Ridge regression model with strong performance (R² = 0.914). The model is deployment-ready and can be used as an API for real-world price predictions.
 
  ## Deployment on Render
+ https://house-price-predictor-9frq.onrender.com
