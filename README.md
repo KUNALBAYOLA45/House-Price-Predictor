@@ -75,7 +75,7 @@ pip install -r requirements.txt
 ### **1. Train the Model**
 Run the Jupyter notebook to preprocess the data and train the model:
 ```bash
-jupyter notebook Bangalore_House_Price_Prediction.ipynb
+jupyter notebook House_Price_Predictor.ipynb
 ```
 ### **2. Usage:**
 
