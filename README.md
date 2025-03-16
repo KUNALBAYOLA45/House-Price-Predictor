@@ -18,7 +18,7 @@ This project follows a structured approach:
 
 # Animation of UI
 
-![HomepageUI](./HousePricePredictor.mp4)
+![HomepageUI](./housepricepredictor.gif)
 
 
 ## Steps in the Project
